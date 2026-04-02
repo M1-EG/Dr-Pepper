@@ -1,0 +1,5 @@
+{
+  "name": "Dr Pepper: One of a Kind Experience",
+  "description": "A high-converting, mobile-first brand hub for Dr Pepper featuring flavor exploration, store locators, and loyalty integration.",
+  "requestFramePermissions": ["geolocation"]
+}
